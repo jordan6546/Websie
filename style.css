@@ -1,0 +1,15 @@
+.link1 {
+font-family: "sans-serif":
+}
+p {
+font-family: "sans-serif";
+}
+a:link {
+color: #00ffaa;
+}
+a:visted {
+color: green;
+}
+a:hover {
+color: blue;
+}
